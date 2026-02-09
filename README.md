@@ -65,7 +65,7 @@ Signal inversion (to convert valleys → peaks)
 Peak detection
 Interval measurement between peaks
 
-Formula:
+Formula
 BPM = (SamplingRate × 60) / PeakInterval
 
 
@@ -84,6 +84,7 @@ User login system
 Data storage per user (.mat files)
 Automatic detection of serial port
 Serial callback for streaming data
+
 
 User System
 Each user has a dedicated .mat file storing:
